@@ -21,5 +21,6 @@ G - "-" (right sensor)
 Enjoy!
 
 
-Video: https://www.youtube.com/watch?v=2mb7XrPxtXw
+Video: https://www.youtube.com/watch?v=2mb7XrPxtXw  
+Source code: https://github.com/EliseiNicolae/arduinoTemperatureSensor/tree/main/ESP8266%20%2B%20DHT11%20%2B%20Web%20server  
 @Elisei Nicolae 2020
