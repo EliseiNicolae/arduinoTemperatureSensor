@@ -7,7 +7,7 @@
 - 3 x female to male jumper wires
 
 ### Config: 
-#### 1. Insert your ssid (wifi name) and password (wifi password)
+#### 1. Insert your ssid (wifi name) and password (wifi password)     [here](https://github.com/EliseiNicolae/arduinoTemperatureSensor/blob/main/ESP8266%20+%20DHT11%20+%20Web%20server/main.c#L7)  
 
 
 #### 2. Set your ports like this:
